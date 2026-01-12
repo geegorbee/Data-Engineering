@@ -179,7 +179,7 @@ Training Completed:
 
 
 Contact
-Gerald BrownParadise, NL, Canada
+Gerald Brown CBS, NL, Canada
 Email: gerald.brown@alumni.utoronto.caLinkedIn: linkedin.com/in/gerald-brown-63168223aPortfolio: github.com/geegorbee
 
 Related Projects:
