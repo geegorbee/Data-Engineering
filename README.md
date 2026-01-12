@@ -73,5 +73,19 @@ My background in data quality validation, compliance workflows, and operational 
 - 5 years managing identity verification and access control operations
 - Data quality validation and compliance monitoring
 - Team leadership and stakeholder communication
-- Remote​​​​​​​​​​​​​​​​
+- Remote work experience in high-integrity environments
 
+---
+
+## 📫 Contact
+
+**Gerald Brown** 
+CBS, NL, Canada
+
+**Email:** gerald.brown@alumni.utoronto.ca  
+**LinkedIn:** [linkedin.com/in/gerald-brown-63168223a](https://linkedin.com/in/gerald-brown-63168223a)  
+**GitHub:** [github.com/geegorbee](https://github.com/geegorbee)
+
+---
+
+*This portfolio is actively growing as I complete data engineering projects and training. Check back for updates!*
