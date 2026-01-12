@@ -1,1 +1,12 @@
+transaction_id,user_id,amount,transaction_date,status,merchant_category
+1001,101,125.50,2026-01-08,completed,groceries
+1002,102,45.00,2026-01-08,completed,dining
+1003,101,200.00,2026-01-08,pending,shopping
+1004,103,89.99,2026-01-09,completed,entertainment
+1005,102,150.00,2026-01-09,failed,groceries
+1006,104,75.25,2026-01-09,completed,dining
+1007,101,300.00,2026-01-10,completed,shopping
+1008,105,42.50,2026-01-10,completed,groceries
+1009,103,180.00,2026-01-10,completed,entertainment
+1010,102,95.75,2026-01-11,completed,dining
 
